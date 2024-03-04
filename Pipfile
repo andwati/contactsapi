@@ -8,6 +8,7 @@ django = "*"
 python-dotenv = "*"
 djangorestframework = "*"
 pyjwt = "*"
+drf-yasg = "*"
 
 [dev-packages]
 black = "*"
