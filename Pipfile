@@ -10,6 +10,7 @@ djangorestframework = "*"
 pyjwt = "*"
 drf-yasg = "*"
 gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 black = "*"
