@@ -9,6 +9,7 @@ python-dotenv = "*"
 djangorestframework = "*"
 pyjwt = "*"
 drf-yasg = "*"
+gunicorn = "*"
 
 [dev-packages]
 black = "*"
